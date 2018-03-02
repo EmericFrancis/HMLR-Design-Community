@@ -1,25 +1,11 @@
-## This is a test of using GitHub pages 
+# This site will host Content Design resources  
 
 I can use the [editor on GitHub](https://github.com/Erintregunna/test/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Knowledge nuggets 
+ 1. [The Inverted pyramid](https://docs.google.com/presentation/d/17LKe9-SGrSbtYtYUzOlBsb4oor440hgi7TgYBdxvdBU/edit?usp=sharing)
+2. [Plain English](https://docs.google.com/presentation/d/1RPRb6xrv5RGvj1x4zefKPe01ZZpKcOuKS2gLOWD1Hm4/edit?usp=sharing)  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
